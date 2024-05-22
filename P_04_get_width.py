@@ -1,4 +1,4 @@
-# Ask user for width and loop until they 
+# Ask user for width and loop until they
 # enter a number that is more than zero
 def num_check(question):
     error = "Please enter a number that is more than zero\n"
