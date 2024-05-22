@@ -12,7 +12,7 @@ square = fav_num * fav_num
 # Greet the user
 print(f" \nHi {username}, your favourite number is {fav_num}")
 
-# Output the result of doubling, halving and
+# Output the result of doubling, halving and 
 # squaring their favourite integer
 print(f"Double {fav_num} is {double}")
 print(f"Half {fav_num} is {half}")
